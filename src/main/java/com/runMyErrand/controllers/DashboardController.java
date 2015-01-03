@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 import javax.servlet.http.HttpSession;
 
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
@@ -34,12 +35,10 @@ import com.runMyErrand.services.UserServices;
 @Controller
 @SessionAttributes({"user", "current", "masterTasks"})
 @SuppressWarnings("unchecked")
-public class DashboardController {
+public class DashboardController{
 
 	private static final Logger logger = Logger.getLogger(DashboardController.class);
 	
-	@Value("${weekly.goal}")
-    private String weeklyGoal;
 	
 	/**
 	 * Fetches all the necessary user data which is required in the session;
@@ -85,7 +84,7 @@ public ModelAndView dashboard(HttpSession session){
         
         return model;
     }
-	
+
 	/**
 	 * Accessed only when admin logs in into the system;
 	 * fetches current system date, as well as timebox dates
@@ -112,8 +111,6 @@ public ModelAndView dashboard(HttpSession session){
 	 */
 	@RequestMapping(value = "/fastforward", method= RequestMethod.POST)
 	public ModelAndView fastforward(@RequestParam("date") String date){
-		logger.debug("Weekly Goal: "+weeklyGoal);
-		int goals = Integer.parseInt(weeklyGoal);
 		ModelAndView model = new ModelAndView("admindashboard");
 		Date givenDate = DateManager.convertStringDate(date);
 		Date currentSystemDate = DateManager.convertStringDate(SchedulingService.getCurrentSystemDate());
@@ -127,7 +124,7 @@ public ModelAndView dashboard(HttpSession session){
 			for(int i=1; i<=days; i++){
 				logger.debug("current date:"+currentSystemDate);
 				//SchedulingService.setCurrentSystemDate(DateManager.recurring(SchedulingService.getCurrentSystemDate(), 1));
-				SchedulingService.changeCurrentDate(goals);
+				SchedulingService.changeCurrentDate();
 			}
 			model.addObject("error", "Done Successfully");
 			model.addObject("currentdate", SchedulingService.getCurrentSystemDate());

@@ -30,8 +30,7 @@
                           <th>Due Date</th>    
                           <th>Recurring</th>                          
                           <th>Status</th>
-                          <th>Update Status</th>
-                          <th>Action</th>
+                          <th>Complete Task</th>
                       </tr>
                     </thead>
                     <tbody>               
@@ -61,17 +60,14 @@
                               <td><span class="label label-default ">TODO</span></td>
                             </c:otherwise>
                         </c:choose>
-                       <td>
-                          <select class="form-control" name = "completed">
-                            <option value = "TODO">TODO</option>
-                            <option value = "DONE">DONE</option>
-                          </select>
-                        </td>
                         <td>
-                        <button type="submit" class="btn btn-primary btn-sm">Edit</button>
+                        <center>
+                        <button type="submit" class="btn btn-primary btn-sm" style="text-align: center; display: inline-block;">Done</button>
+						</center>
                         </td>
                         </tr>
                         <input type="hidden" value="${mytasks.taskid}" name="taskid">
+                        <input type="hidden" value="DONE" name="completed">                        
                     </form>
                   </c:forEach>
                 </tbody>

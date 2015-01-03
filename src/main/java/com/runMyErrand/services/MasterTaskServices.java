@@ -47,12 +47,13 @@ public static void updateAssignedTaskPoints(int taskid, String room,float adjust
         TaskInfo task = TaskServices.getSpecificTask(taskid);
         
         logger.info("Current points:"+ task.getPoints());
-        float temp = ScoreManager.decreaseTaskPoints(task.getPoints(),adjustmentValue);
-        
+        float temp = ScoreManager.decreaseTaskPoints(task.getPoints(), adjustmentValue);
         logger.info("Decreased points:"+ temp);
+        
         getMasterTaskDao().updatePoints(task.getMasterId(), temp);
         TaskServices.updateAssignedPoints(task.getMasterId(), temp);
-        float difference = ScoreManager.pointsDifference(task.getPoints(),adjustmentValue);
+        
+        float difference = ScoreManager.pointsDifference(task.getPoints(), adjustmentValue);
         logger.info("difference:"+ difference);
         
         List<TaskInfo> tasks = TaskServices.retrieveUnassignedTasks(room);

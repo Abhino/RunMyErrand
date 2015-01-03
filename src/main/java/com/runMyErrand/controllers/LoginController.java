@@ -1,6 +1,7 @@
 package com.runMyErrand.controllers;
 
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -53,7 +54,7 @@ public class LoginController{
 		return "signin";
 	}
 	
-	
+	 
 	
 	/**
 	 * Displays error if user puts invalid credentials

@@ -79,7 +79,7 @@ public class TaskController {
 		UserInfo user = (UserInfo)session.getAttribute("user");
 		TaskServices.assignTask(taskid, assignedto, user.getRoom());
 		if(length>1){
-			MasterTaskServices.updateAssignedTaskPoints(taskid, user.getRoom(),adjustmentValue);
+			MasterTaskServices.updateAssignedTaskPoints(taskid, user.getRoom(), adjustmentValue);
 			logger.debug("updated tasks");
 		}
 		return new ModelAndView("forward:unassignedtask");
@@ -185,7 +185,7 @@ public class TaskController {
     }
 	
 	/**
-	 * Retrieves all task from users roon
+	 * Retrieves all task from users room
 	 * @param session
 	 * @return redirects to alltasks.jsp
 	 */

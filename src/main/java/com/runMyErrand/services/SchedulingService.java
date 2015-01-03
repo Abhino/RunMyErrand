@@ -3,7 +3,9 @@ package com.runMyErrand.services;
 import java.util.List;
 
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.scheduling.annotation.Scheduled;
 
 import com.runMyErrand.logic.DateManager;
 import com.runMyErrand.model.UserInfo;
@@ -33,6 +35,10 @@ public class SchedulingService {
 	
 	@Value("${timeboxdays}")
 	private static String timeboxdays;
+	
+	//@Value("${weekly.goal}")
+    //private static String weeklyGoal;
+
 	
 	/** Get Timebox start date
 	 * @return
@@ -76,8 +82,8 @@ public class SchedulingService {
 
 	private static final Logger logger = Logger.getLogger(SchedulingService.class);
 	//@Autowired
-	//@Scheduled(cron = "0 0/30 * * * ?")
-	public static void changeCurrentDate(int goals){
+	//@Scheduled(cron = "0/5 * * * * ?")
+	public static void changeCurrentDate(){
 			
 			SchedulingService.setCurrentSystemDate(DateManager.addDate(SchedulingService.CurrentSystemDate, 1));
 			TaskServices.getTaskDao().setCurrentDate(SchedulingService.CurrentSystemDate);
@@ -85,13 +91,13 @@ public class SchedulingService {
 			//Date todaysdate = new Date();
 			//String date = DateManager.convertDateString(SchedulingService);
 			TaskServices.checkRecurrence(SchedulingService.CurrentSystemDate);
-			timebox(goals);
+			timebox();
 	}
 	
 	
 	
 	//@Scheduled(cron = "*/500 * * * * ?")
-	public static void timebox(int goals){
+	public static void timebox(){
 		logger.debug("Timebox");
 		String todaysdate = SchedulingService.CurrentSystemDate;
 		if(DateManager.addDate(SchedulingService.TimeboxendDate, 1).equals(todaysdate)){
@@ -103,6 +109,8 @@ public class SchedulingService {
 			TaskServices.getTaskDao().setTimeboxEndDate(SchedulingService.TimeboxendDate);
 			logger.info("Timebox end date update:"+SchedulingService.getTimeboxendDate());
 			List<String> rooms = TaskServices.getRooms();
+		//	logger.debug("Weekly Goal: "+weeklyGoal);
+			//int goals = Integer.parseInt(weeklyGoal);
 			for(int i=0; i<rooms.size(); i++){
 				List<UserInfo> users = UserServices.selectMembers(rooms.get(i));
 				//float points = TaskServices.getTimeboxPoints(rooms.get(i));
@@ -115,7 +123,7 @@ public class SchedulingService {
 					UserServices.getUserDao().setScore(u.getEmail(), score);
 				//	UserServices.updateUserScore(u.getEmail(), score, u.getPendingscore() + nowpending);
 //					UserServices.updateWeeklyGoal(u.getEmail(), u.getWeeklygoal()+15);
-					UserServices.updateWeeklyGoal(u.getEmail(), u.getWeeklygoal()+goals);					
+					UserServices.updateWeeklyGoal(u.getEmail(), u.getWeeklygoal()+15);					
 				}
 			}
 		}

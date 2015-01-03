@@ -1,19 +1,22 @@
-/*package com.runMyErrand.controllers.test;
-import org.mockito.*;
-
+package com.runMyErrand.controllers.test;
+import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
 
 import java.util.ArrayList;
 
 import javax.servlet.http.HttpSession;
 
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.runMyErrand.controllers.TaskController;
@@ -21,6 +24,7 @@ import com.runMyErrand.model.TaskInfo;
 import com.runMyErrand.model.UserInfo;
 import com.runMyErrand.services.TaskServices;
 import com.runMyErrand.services.UserServices;
+
 @RunWith(MockitoJUnitRunner.class)
 public class TaskControllerTest {
 
@@ -63,14 +67,14 @@ public class TaskControllerTest {
 	public void testeditMyTask()
 	{
 		System.out.println("editask test");
-		//assert taskcontroller.editMyTask("test", session,"check complete")==null:"object is null";
-		Assert.assertNull("to check the object is not null", taskcontroller);
+	//	assert taskcontroller.editMyTask("test", session,"check complete")==null:"object is null";
+		//Assert.assertNull("to check the object is not null", taskcontroller);
 		
 		
 	}
-	@SuppressWarnings("static-access")*/
+	@SuppressWarnings("static-access")
 	/* The test returns null as the database does'nt hold values for assignedtasks*/
-/*	@Test(expected=NullPointerException.class)
+	@Test(expected=NullPointerException.class)
 	public void testunassignedTasks()
 	{
 		System.out.println("editask test");
@@ -81,9 +85,9 @@ public class TaskControllerTest {
 		@SuppressWarnings("rawtypes")
 		ArrayList expected_unassignedtasks = (ArrayList) TaskServices.retrieveUnassignedTasks(user.getRoom());
 		when(mocktaskservices.retrieveUnassignedTasks("910N")).thenReturn(expected_unassignedtasks);
-	}*/
+	}
 	/* The test returns null as the database does'nt hold values for assignedtasks*/
-/*	@Test(expected=NullPointerException.class)
+	@Test(expected=NullPointerException.class)
 	public void testaddtash()
 	{
 		UserInfo user = (UserInfo)session.getAttribute("user");
@@ -94,4 +98,3 @@ public class TaskControllerTest {
 		assert model!=null :"object value returning not null";		
 	}
 	}
-*/

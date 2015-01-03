@@ -1,7 +1,7 @@
-/*package com.runMyErrand.controllers.test;
-import static org.junit.Assert.*;
+package com.runMyErrand.controllers.test;
+import static org.mockito.Mockito.when;
 
-import java.lang.Object;
+import java.util.ArrayList;
 
 import javax.servlet.http.HttpSession;
 
@@ -12,26 +12,18 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+import org.mockito.runners.MockitoJUnitRunner;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.web.servlet.ModelAndView;
 
 import com.runMyErrand.controllers.DashboardController;
 import com.runMyErrand.model.TaskInfo;
 import com.runMyErrand.model.UserInfo;
 import com.runMyErrand.services.TaskServices;
 import com.runMyErrand.services.UserServices;
-
-import static org.mockito.Mockito.*;
-
-import org.junit.runner.Runner;
-import org.mockito.runners.MockitoJUnitRunner;
-import org.mockito.Matchers;
-import org.mockito.Mock;
-import org.mockito.MockitoAnnotations;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.servlet.ModelAndView;
-
-import java.util.ArrayList;
-import java.util.Iterator;
 @RunWith(MockitoJUnitRunner.class)
 public class DashboardControllerTest {
 	@InjectMocks
@@ -90,4 +82,4 @@ public class DashboardControllerTest {
 		 ModelAndView model2= dashcon.dashboard(session);
 		 assert model==model2:"expected equal to actual";	 
 	}
-}*/
+}

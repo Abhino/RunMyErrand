@@ -1,4 +1,4 @@
-/*
+
 package com.runMyErrand.controllers.test;
 
 import java.util.ArrayList;
@@ -42,4 +42,3 @@ public class UserServicesTest {
 	}
 
 }
-*/

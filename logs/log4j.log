@@ -1,4 +1,1071 @@
-2014-12-12 16:47:15.711 DEBUG SchedulingService:62 - CurrentDateSet:2014-12-31
-2014-12-12 16:47:15.724 DEBUG SchedulingService:67 - TimeboxStartSet:2014-12-31
-2014-12-12 16:47:15.732 DEBUG SchedulingService:72 - TimeboxEndSet:2015-01-07
-2014-12-12 16:47:15.732 DEBUG LoginController:40 - Entering Controller
+2014-12-18 20:26:33.419 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-24
+2014-12-18 20:26:33.441 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-24
+2014-12-18 20:26:33.457 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-31
+2014-12-18 20:26:33.457 DEBUG LoginController:41 - Entering Controller
+2014-12-18 20:26:35.022 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-25
+2014-12-18 20:26:35.072 DEBUG TaskDao:256 - Current set
+2014-12-18 20:26:35.072 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:26:35.072 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-25---
+2014-12-18 20:26:35.103 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:26:35.103 DEBUG SchedulingService:101 - Timebox
+2014-12-18 20:26:40.013 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-26
+2014-12-18 20:26:40.094 DEBUG TaskDao:256 - Current set
+2014-12-18 20:26:40.094 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:26:40.094 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-26---
+2014-12-18 20:26:40.126 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:26:40.126 DEBUG SchedulingService:101 - Timebox
+2014-12-18 20:26:45.010 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-27
+2014-12-18 20:26:45.059 DEBUG TaskDao:256 - Current set
+2014-12-18 20:26:45.059 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:26:45.075 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-27---
+2014-12-18 20:26:45.106 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:26:45.106 DEBUG SchedulingService:101 - Timebox
+2014-12-18 20:26:50.011 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-28
+2014-12-18 20:26:50.077 DEBUG TaskDao:256 - Current set
+2014-12-18 20:26:50.077 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:26:50.077 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-28---
+2014-12-18 20:26:50.077 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:26:50.077 DEBUG SchedulingService:101 - Timebox
+2014-12-18 20:26:55.020 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-29
+2014-12-18 20:26:55.085 DEBUG TaskDao:256 - Current set
+2014-12-18 20:26:55.085 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:26:55.085 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-29---
+2014-12-18 20:26:55.116 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:26:55.116 DEBUG SchedulingService:101 - Timebox
+2014-12-18 20:27:00.017 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-30
+2014-12-18 20:27:00.098 DEBUG TaskDao:256 - Current set
+2014-12-18 20:27:00.098 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-18 20:27:00.098 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-30---
+2014-12-18 20:27:00.113 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-18 20:27:00.113 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:10:28.494 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-19
+2014-12-19 10:10:28.511 DEBUG SchedulingService:73 - TimeboxStartSet:2014-12-13
+2014-12-19 10:10:28.527 DEBUG SchedulingService:78 - TimeboxEndSet:2014-12-20
+2014-12-19 10:10:28.527 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:10:30.030 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-20
+2014-12-19 10:10:30.150 DEBUG TaskDao:256 - Current set
+2014-12-19 10:10:30.150 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:10:30.150 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-20---
+2014-12-19 10:10:30.150 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:10:30.150 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:10:35.010 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-21
+2014-12-19 10:10:35.121 DEBUG TaskDao:256 - Current set
+2014-12-19 10:10:35.121 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:10:35.121 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-21---
+2014-12-19 10:10:35.137 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:10:35.137 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:10:35.168 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:10:35.168 INFO  SchedulingService:106 - TimeboxStartDate update:2014-12-22
+2014-12-19 10:10:35.168 DEBUG SchedulingService:108 - 
+2014-12-19 10:10:35.215 DEBUG TaskDao:274 - End set
+2014-12-19 10:10:35.215 INFO  SchedulingService:110 - Timebox end date update:2014-12-28
+2014-12-19 10:10:35.231 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:10:40.017 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-22
+2014-12-19 10:10:40.082 DEBUG TaskDao:256 - Current set
+2014-12-19 10:10:40.082 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:10:40.082 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-22---
+2014-12-19 10:10:40.082 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:10:40.082 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:10:45.012 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-23
+2014-12-19 10:10:45.066 DEBUG TaskDao:256 - Current set
+2014-12-19 10:10:45.066 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:10:45.066 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-23---
+2014-12-19 10:10:45.066 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:10:45.066 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:15:34.057 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-24
+2014-12-19 10:15:37.032 DEBUG TaskDao:256 - Current set
+2014-12-19 10:15:37.032 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:15:37.037 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-24---
+2014-12-19 10:15:37.038 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:15:37.038 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:15:40.025 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-25
+2014-12-19 10:15:40.159 DEBUG TaskDao:256 - Current set
+2014-12-19 10:15:40.159 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:15:40.159 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-25---
+2014-12-19 10:15:40.174 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:15:40.174 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:15:45.005 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-26
+2014-12-19 10:15:45.063 DEBUG TaskDao:256 - Current set
+2014-12-19 10:15:45.063 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:15:45.064 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-26---
+2014-12-19 10:15:45.073 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:15:45.074 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:15:50.014 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-27
+2014-12-19 10:15:50.048 DEBUG TaskDao:256 - Current set
+2014-12-19 10:15:50.048 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:15:50.048 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-27---
+2014-12-19 10:15:50.063 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:15:50.063 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:15:55.017 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-28
+2014-12-19 10:15:55.160 DEBUG TaskDao:256 - Current set
+2014-12-19 10:15:55.160 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:15:55.160 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-28---
+2014-12-19 10:15:55.175 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:15:55.175 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:00.006 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-29
+2014-12-19 10:16:00.055 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:00.055 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:00.055 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-29---
+2014-12-19 10:16:00.055 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:00.055 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:00.118 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:16:00.118 INFO  SchedulingService:106 - TimeboxStartDate update:2014-12-30
+2014-12-19 10:16:00.118 DEBUG SchedulingService:108 - 
+2014-12-19 10:16:00.149 DEBUG TaskDao:274 - End set
+2014-12-19 10:16:00.149 INFO  SchedulingService:110 - Timebox end date update:2015-01-05
+2014-12-19 10:16:00.149 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:16:33.349 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-29
+2014-12-19 10:16:33.365 DEBUG SchedulingService:73 - TimeboxStartSet:2014-12-29
+2014-12-19 10:16:33.375 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-05
+2014-12-19 10:16:33.375 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:16:35.021 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-30
+2014-12-19 10:16:35.118 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:35.118 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:35.118 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-30---
+2014-12-19 10:16:35.133 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:35.133 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:40.009 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-31
+2014-12-19 10:16:40.189 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:40.189 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:40.189 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2014-12-31---
+2014-12-19 10:16:40.189 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:40.189 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:43.801 DEBUG SchedulingService:68 - CurrentDateSet:2014-12-31
+2014-12-19 10:16:43.809 DEBUG SchedulingService:73 - TimeboxStartSet:2014-12-29
+2014-12-19 10:16:43.817 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-05
+2014-12-19 10:16:43.821 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:16:45.015 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-01
+2014-12-19 10:16:45.063 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:45.063 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:45.063 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-01---
+2014-12-19 10:16:45.079 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:45.079 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:50.022 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-02
+2014-12-19 10:16:50.055 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:50.055 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:50.055 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-02---
+2014-12-19 10:16:50.071 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:50.071 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:16:53.196 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:16:53.204 DEBUG UserDao:41 - Tejas
+2014-12-19 10:16:53.212 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@4289a2cd]
+2014-12-19 10:16:53.216 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:16:53.224 DEBUG TaskDao:34 - tasklist[]
+2014-12-19 10:16:53.224 DEBUG DashboardController:67 - []
+2014-12-19 10:16:53.224 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:16:53.232 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:16:53.232 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:16:53.240 DEBUG MasterTaskDao:127 - []
+2014-12-19 10:16:53.240 DEBUG DashboardController:72 - []
+2014-12-19 10:16:53.240 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:16:55.006 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-03
+2014-12-19 10:16:55.061 DEBUG TaskDao:256 - Current set
+2014-12-19 10:16:55.061 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:16:55.061 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-03---
+2014-12-19 10:16:55.069 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:16:55.069 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:00.011 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-04
+2014-12-19 10:17:00.044 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:00.044 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:00.044 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-04---
+2014-12-19 10:17:00.060 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:00.060 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:05.012 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-05
+2014-12-19 10:17:05.089 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:05.089 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:05.089 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-05---
+2014-12-19 10:17:05.089 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:05.089 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:10.017 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-06
+2014-12-19 10:17:10.066 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:10.066 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:10.066 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-06---
+2014-12-19 10:17:10.066 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:10.066 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:10.097 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:17:10.097 INFO  SchedulingService:106 - TimeboxStartDate update:2015-01-07
+2014-12-19 10:17:10.097 DEBUG SchedulingService:108 - 
+2014-12-19 10:17:10.129 DEBUG TaskDao:274 - End set
+2014-12-19 10:17:10.129 INFO  SchedulingService:110 - Timebox end date update:2015-01-13
+2014-12-19 10:17:10.144 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:17:15.010 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-07
+2014-12-19 10:17:15.043 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:15.043 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:15.043 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-07---
+2014-12-19 10:17:15.058 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:15.058 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:20.016 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-08
+2014-12-19 10:17:20.049 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:20.049 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:20.049 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-08---
+2014-12-19 10:17:20.065 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:20.065 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:25.007 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-09
+2014-12-19 10:17:25.087 DEBUG TaskDao:256 - Current set
+2014-12-19 10:17:25.087 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:17:25.087 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-09---
+2014-12-19 10:17:25.102 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:17:25.102 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:17:50.189 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-09
+2014-12-19 10:17:50.204 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-06
+2014-12-19 10:17:50.219 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-13
+2014-12-19 10:17:50.219 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:17:57.915 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-09
+2014-12-19 10:17:57.923 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-06
+2014-12-19 10:17:57.931 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-13
+2014-12-19 10:17:57.935 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:18:03.014 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:18:03.024 DEBUG UserDao:41 - Tejas
+2014-12-19 10:18:03.036 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@2e45d01e]
+2014-12-19 10:18:03.036 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:18:03.044 DEBUG TaskDao:34 - tasklist[]
+2014-12-19 10:18:03.044 DEBUG DashboardController:67 - []
+2014-12-19 10:18:03.044 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:18:03.052 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:18:03.052 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:18:03.064 DEBUG MasterTaskDao:127 - []
+2014-12-19 10:18:03.064 DEBUG DashboardController:72 - []
+2014-12-19 10:18:03.064 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:18:49.633 DEBUG TaskController:102 - Entering add task controller
+2014-12-19 10:18:49.633 DEBUG TaskController:103 - Flag from page: 0
+2014-12-19 10:18:49.635 DEBUG TaskController:105 - Task Description: Clean the Car
+2014-12-19 10:18:49.636 DEBUG TaskController:106 - Task points: 10.0
+2014-12-19 10:18:49.636 DEBUG TaskController:107 - Number of days: 10
+2014-12-19 10:18:49.636 DEBUG MasterTaskServices:33 - Date Difference calculated
+2014-12-19 10:18:49.720 DEBUG MasterTaskServices:36 - Task updated
+2014-12-19 10:18:49.812 DEBUG UserServices:81 - In PendingScoresUpdate
+2014-12-19 10:18:49.817 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:18:49.929 DEBUG TaskController:116 - adding points to roominfo
+2014-12-19 10:18:49.933 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:18:49.961 DEBUG UserDao:41 - Tejas
+2014-12-19 10:18:49.985 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@63b9ec0e]
+2014-12-19 10:18:49.989 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:18:50.017 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@27f762a9]
+2014-12-19 10:18:50.017 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@27f762a9]
+2014-12-19 10:18:50.021 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:18:50.037 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:18:50.037 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:18:50.049 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@686cfdeb]
+2014-12-19 10:18:50.049 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@686cfdeb]
+2014-12-19 10:18:50.049 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:18:52.269 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@526fe8]
+2014-12-19 10:18:52.269 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:20:20.498 DEBUG TaskController:102 - Entering add task controller
+2014-12-19 10:20:20.498 DEBUG TaskController:103 - Flag from page: 1
+2014-12-19 10:20:20.500 DEBUG TaskController:105 - Task Description: Clean the Car
+2014-12-19 10:20:20.500 DEBUG TaskController:106 - Task points: 10.0
+2014-12-19 10:20:20.500 DEBUG TaskController:107 - Number of days: 10
+2014-12-19 10:20:20.571 DEBUG UserServices:81 - In PendingScoresUpdate
+2014-12-19 10:20:20.571 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:20:20.765 DEBUG TaskController:116 - adding points to roominfo
+2014-12-19 10:20:20.773 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:20:20.793 DEBUG UserDao:41 - Tejas
+2014-12-19 10:20:20.809 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@3fb13663]
+2014-12-19 10:20:20.809 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:20:20.825 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@40d4f387, com.runMyErrand.model.TaskInfo@5cc04551]
+2014-12-19 10:20:20.829 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@40d4f387, com.runMyErrand.model.TaskInfo@5cc04551]
+2014-12-19 10:20:20.829 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:20:20.841 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:20:20.845 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:20:20.861 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@2d9f749c]
+2014-12-19 10:20:20.861 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@2d9f749c]
+2014-12-19 10:20:20.861 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:20:23.202 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@b92ff0c, com.runMyErrand.model.TaskInfo@5fa672c3]
+2014-12-19 10:20:23.202 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:20:56.560 DEBUG TaskController:102 - Entering add task controller
+2014-12-19 10:20:56.560 DEBUG TaskController:103 - Flag from page: 0
+2014-12-19 10:20:56.561 DEBUG TaskController:105 - Task Description: Cleaning room
+2014-12-19 10:20:56.561 DEBUG TaskController:106 - Task points: 20.0
+2014-12-19 10:20:56.561 DEBUG TaskController:107 - Number of days: 5
+2014-12-19 10:20:56.562 DEBUG MasterTaskServices:33 - Date Difference calculated
+2014-12-19 10:20:56.670 DEBUG MasterTaskServices:36 - Task updated
+2014-12-19 10:20:56.815 DEBUG UserServices:81 - In PendingScoresUpdate
+2014-12-19 10:20:56.815 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:20:56.934 DEBUG TaskController:116 - adding points to roominfo
+2014-12-19 10:20:56.938 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:20:56.954 DEBUG UserDao:41 - Tejas
+2014-12-19 10:20:56.970 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@16142924]
+2014-12-19 10:20:56.970 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:20:56.990 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@59d0cd27, com.runMyErrand.model.TaskInfo@1b4ce982, com.runMyErrand.model.TaskInfo@567663ce]
+2014-12-19 10:20:56.994 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@59d0cd27, com.runMyErrand.model.TaskInfo@1b4ce982, com.runMyErrand.model.TaskInfo@567663ce]
+2014-12-19 10:20:56.994 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:20:57.006 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:20:57.006 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:20:57.018 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@6a57c79a, com.runMyErrand.model.MasterTaskInfo@28f18601]
+2014-12-19 10:20:57.018 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@6a57c79a, com.runMyErrand.model.MasterTaskInfo@28f18601]
+2014-12-19 10:20:57.018 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:20:58.653 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@36e0e2b3, com.runMyErrand.model.TaskInfo@664371ea, com.runMyErrand.model.TaskInfo@55ebee19]
+2014-12-19 10:20:58.653 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:22:46.781 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:22:46.788 DEBUG UserDao:41 - Tejas
+2014-12-19 10:22:46.792 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@7d647cd2]
+2014-12-19 10:22:46.792 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:22:46.800 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@56533706, com.runMyErrand.model.TaskInfo@71419730, com.runMyErrand.model.TaskInfo@92d0a67]
+2014-12-19 10:22:46.800 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@56533706, com.runMyErrand.model.TaskInfo@71419730, com.runMyErrand.model.TaskInfo@92d0a67]
+2014-12-19 10:22:46.800 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:22:46.804 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:22:46.804 DEBUG DashboardController:69 - Login:[]
+2014-12-19 10:22:46.812 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@58376b64, com.runMyErrand.model.MasterTaskInfo@1e6b9f7b]
+2014-12-19 10:22:46.812 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@58376b64, com.runMyErrand.model.MasterTaskInfo@1e6b9f7b]
+2014-12-19 10:22:46.812 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:22:51.377 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@2b081bf0, com.runMyErrand.model.TaskInfo@21623fa2, com.runMyErrand.model.TaskInfo@393fb5cd]
+2014-12-19 10:22:51.377 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:23:08.981 DEBUG TaskController:76 - Adjustment value: 0.2
+2014-12-19 10:23:08.981 INFO  TaskController:77 - task: 56
+2014-12-19 10:23:08.981 INFO  TaskController:78 - assignedto: shah_tejas92@yahoo.co.in
+2014-12-19 10:23:08.981 DEBUG TaskServices:66 - Entering Assign task
+2014-12-19 10:23:09.098 DEBUG TaskDao:147 - getting task
+2014-12-19 10:23:09.113 DEBUG TaskDao:152 - task [com.runMyErrand.model.TaskInfo@2ed7793b]
+2014-12-19 10:23:09.113 INFO  MasterTaskServices:49 - Current points:10.0
+2014-12-19 10:23:09.113 INFO  MasterTaskServices:51 - Decreased points:8.0
+2014-12-19 10:23:09.173 DEBUG MasterTaskDao:99 - points updated
+2014-12-19 10:23:09.189 DEBUG TaskDao:177 - task updated
+2014-12-19 10:23:09.193 INFO  MasterTaskServices:57 - difference:2.0
+2014-12-19 10:23:09.209 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@3748bb1a, com.runMyErrand.model.TaskInfo@7f3c451]
+2014-12-19 10:23:09.209 INFO  MasterTaskServices:60 - MasterID:30
+2014-12-19 10:23:09.209 INFO  MasterTaskServices:61 - sizeof list:2
+2014-12-19 10:23:09.213 DEBUG TaskDao:101 - update score
+2014-12-19 10:23:09.225 INFO  MasterTaskServices:64 - dividing factor:30.0
+2014-12-19 10:23:09.229 DEBUG MasterTaskServices:65 - Increasing Points
+2014-12-19 10:23:09.229 INFO  MasterTaskServices:72 - points before:10.0
+2014-12-19 10:23:09.229 INFO  MasterTaskServices:74 - pointsAfter:10.666667
+2014-12-19 10:23:09.245 DEBUG MasterTaskDao:99 - points updated
+2014-12-19 10:23:09.289 DEBUG TaskDao:177 - task updated
+2014-12-19 10:23:09.293 INFO  MasterTaskServices:72 - points before:20.0
+2014-12-19 10:23:09.293 INFO  MasterTaskServices:74 - pointsAfter:21.333334
+2014-12-19 10:23:09.341 DEBUG MasterTaskDao:99 - points updated
+2014-12-19 10:23:09.381 DEBUG TaskDao:177 - task updated
+2014-12-19 10:23:09.381 DEBUG TaskController:83 - updated tasks
+2014-12-19 10:23:09.397 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@6ec98052, com.runMyErrand.model.TaskInfo@6f07c050]
+2014-12-19 10:23:09.401 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:23:33.515 DEBUG TaskController:76 - Adjustment value: 0.2
+2014-12-19 10:23:33.515 INFO  TaskController:77 - task: 58
+2014-12-19 10:23:33.518 INFO  TaskController:78 - assignedto: shah_tejas92@yahoo.co.in
+2014-12-19 10:23:33.518 DEBUG TaskServices:66 - Entering Assign task
+2014-12-19 10:23:33.580 DEBUG TaskDao:147 - getting task
+2014-12-19 10:23:33.587 DEBUG TaskDao:152 - task [com.runMyErrand.model.TaskInfo@bf2e1e8]
+2014-12-19 10:23:33.587 INFO  MasterTaskServices:49 - Current points:21.3333
+2014-12-19 10:23:33.587 INFO  MasterTaskServices:51 - Decreased points:17.066639
+2014-12-19 10:23:33.638 DEBUG MasterTaskDao:99 - points updated
+2014-12-19 10:23:33.642 DEBUG TaskDao:177 - task updated
+2014-12-19 10:23:33.642 INFO  MasterTaskServices:57 - difference:4.26666
+2014-12-19 10:23:33.646 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@7f60b065]
+2014-12-19 10:23:33.650 INFO  MasterTaskServices:60 - MasterID:31
+2014-12-19 10:23:33.650 INFO  MasterTaskServices:61 - sizeof list:1
+2014-12-19 10:23:33.650 DEBUG TaskDao:101 - update score
+2014-12-19 10:23:33.654 INFO  MasterTaskServices:64 - dividing factor:10.0
+2014-12-19 10:23:33.654 DEBUG MasterTaskServices:65 - Increasing Points
+2014-12-19 10:23:33.658 DEBUG MasterTaskDao:99 - points updated
+2014-12-19 10:23:33.702 DEBUG TaskDao:177 - task updated
+2014-12-19 10:23:33.706 DEBUG TaskController:83 - updated tasks
+2014-12-19 10:23:33.722 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@45d14205]
+2014-12-19 10:23:33.726 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:23:41.225 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:23:41.234 DEBUG UserDao:41 - Tejas
+2014-12-19 10:23:41.242 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@4801cf1f]
+2014-12-19 10:23:41.242 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:23:41.246 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@7df31a56, com.runMyErrand.model.TaskInfo@634644b3, com.runMyErrand.model.TaskInfo@1a4876b0]
+2014-12-19 10:23:41.246 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@7df31a56, com.runMyErrand.model.TaskInfo@634644b3, com.runMyErrand.model.TaskInfo@1a4876b0]
+2014-12-19 10:23:41.246 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:23:41.250 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@bf1bb9f, com.runMyErrand.model.TaskInfo@2b54c9d9]
+2014-12-19 10:23:41.254 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@bf1bb9f, com.runMyErrand.model.TaskInfo@2b54c9d9]
+2014-12-19 10:23:41.258 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@9abff14, com.runMyErrand.model.MasterTaskInfo@7af77f01]
+2014-12-19 10:23:41.258 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@9abff14, com.runMyErrand.model.MasterTaskInfo@7af77f01]
+2014-12-19 10:23:41.258 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:27:06.375 DEBUG TaskController:135 - Entering edittask
+2014-12-19 10:27:06.375 DEBUG TaskDao:147 - getting task
+2014-12-19 10:27:06.383 DEBUG TaskDao:152 - task [com.runMyErrand.model.TaskInfo@3feaaa9b]
+2014-12-19 10:27:06.383 DEBUG TaskServices:89 - Entering updatetask
+2014-12-19 10:27:06.383 DEBUG TaskDao:119 - entering updatetaskstatus
+2014-12-19 10:27:06.441 DEBUG TaskServices:92 - entering updatescore
+2014-12-19 10:27:06.445 DEBUG TaskController:145 - new user score10.010.0
+2014-12-19 10:27:06.445 DEBUG TaskController:146 - Pending Score: Previous 18.0
+2014-12-19 10:27:06.469 DEBUG TaskController:162 - Updating User Score
+2014-12-19 10:27:06.469 DEBUG UserServices:64 - updating user score
+2014-12-19 10:27:06.497 DEBUG UserDao:29 - score updated
+2014-12-19 10:27:06.537 DEBUG UserDao:70 - pending score updated
+2014-12-19 10:27:06.541 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:27:06.553 DEBUG UserDao:41 - Tejas
+2014-12-19 10:27:06.569 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@204c10d8]
+2014-12-19 10:27:06.573 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:27:06.589 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@44cd09b3, com.runMyErrand.model.TaskInfo@7137ea0e, com.runMyErrand.model.TaskInfo@de77734]
+2014-12-19 10:27:06.589 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@44cd09b3, com.runMyErrand.model.TaskInfo@7137ea0e, com.runMyErrand.model.TaskInfo@de77734]
+2014-12-19 10:27:06.589 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:27:06.605 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@37b48b2c, com.runMyErrand.model.TaskInfo@2e1d1246]
+2014-12-19 10:27:06.609 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@37b48b2c, com.runMyErrand.model.TaskInfo@2e1d1246]
+2014-12-19 10:27:06.621 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@4a44ad41, com.runMyErrand.model.MasterTaskInfo@62caac7e]
+2014-12-19 10:27:06.621 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@4a44ad41, com.runMyErrand.model.MasterTaskInfo@62caac7e]
+2014-12-19 10:27:06.625 DEBUG DashboardController:74 - Weekly goal: 5.0
+2014-12-19 10:27:17.163 DEBUG TaskController:135 - Entering edittask
+2014-12-19 10:27:17.163 DEBUG TaskDao:147 - getting task
+2014-12-19 10:27:17.169 DEBUG TaskDao:152 - task [com.runMyErrand.model.TaskInfo@6b1b5f46]
+2014-12-19 10:27:17.169 DEBUG TaskServices:89 - Entering updatetask
+2014-12-19 10:27:17.169 DEBUG TaskDao:119 - entering updatetaskstatus
+2014-12-19 10:27:17.215 DEBUG TaskServices:92 - entering updatescore
+2014-12-19 10:27:17.215 DEBUG TaskController:145 - new user score31.333321.3333
+2014-12-19 10:27:17.219 DEBUG TaskController:146 - Pending Score: Previous 8.0
+2014-12-19 10:27:17.264 DEBUG TaskController:162 - Updating User Score
+2014-12-19 10:27:17.267 DEBUG UserServices:64 - updating user score
+2014-12-19 10:27:17.304 DEBUG UserDao:29 - score updated
+2014-12-19 10:27:17.342 DEBUG UserDao:70 - pending score updated
+2014-12-19 10:27:17.346 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:27:17.362 DEBUG UserDao:41 - Tejas
+2014-12-19 10:27:17.378 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@1315e7c4]
+2014-12-19 10:27:17.378 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:27:17.394 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@76ca21f6, com.runMyErrand.model.TaskInfo@507bda67, com.runMyErrand.model.TaskInfo@733fc978]
+2014-12-19 10:27:17.394 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@76ca21f6, com.runMyErrand.model.TaskInfo@507bda67, com.runMyErrand.model.TaskInfo@733fc978]
+2014-12-19 10:27:17.398 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:27:17.410 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@3c9c9821, com.runMyErrand.model.TaskInfo@4cc7bd9d]
+2014-12-19 10:27:17.410 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@3c9c9821, com.runMyErrand.model.TaskInfo@4cc7bd9d]
+2014-12-19 10:27:17.430 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@3ae0936b, com.runMyErrand.model.MasterTaskInfo@6dee73ff]
+2014-12-19 10:27:17.430 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@3ae0936b, com.runMyErrand.model.MasterTaskInfo@6dee73ff]
+2014-12-19 10:27:17.430 DEBUG DashboardController:74 - Weekly goal: 0.0
+2014-12-19 10:27:27.019 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@72629100]
+2014-12-19 10:27:27.019 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:27:38.848 DEBUG TaskController:76 - Adjustment value: 0.2
+2014-12-19 10:27:38.848 INFO  TaskController:77 - task: 57
+2014-12-19 10:27:38.850 INFO  TaskController:78 - assignedto: shah_tejas92@yahoo.co.in
+2014-12-19 10:27:38.850 DEBUG TaskServices:66 - Entering Assign task
+2014-12-19 10:27:38.963 DEBUG TaskDao:63 - []
+2014-12-19 10:27:38.963 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:27:41.548 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:27:41.552 DEBUG UserDao:41 - Tejas
+2014-12-19 10:27:41.560 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@283d1416]
+2014-12-19 10:27:41.560 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:27:41.565 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@38f8eae7, com.runMyErrand.model.TaskInfo@5e0600e9, com.runMyErrand.model.TaskInfo@5c25f138]
+2014-12-19 10:27:41.565 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@38f8eae7, com.runMyErrand.model.TaskInfo@5e0600e9, com.runMyErrand.model.TaskInfo@5c25f138]
+2014-12-19 10:27:41.565 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:27:41.572 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@4c63bae6, com.runMyErrand.model.TaskInfo@27837938, com.runMyErrand.model.TaskInfo@288b5fcc]
+2014-12-19 10:27:41.572 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@4c63bae6, com.runMyErrand.model.TaskInfo@27837938, com.runMyErrand.model.TaskInfo@288b5fcc]
+2014-12-19 10:27:41.576 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@352fc7d0, com.runMyErrand.model.MasterTaskInfo@53e743f7]
+2014-12-19 10:27:41.576 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@352fc7d0, com.runMyErrand.model.MasterTaskInfo@53e743f7]
+2014-12-19 10:27:41.576 DEBUG DashboardController:74 - Weekly goal: 0.0
+2014-12-19 10:27:58.328 DEBUG TaskController:177 - entering overdue tasks
+2014-12-19 10:27:58.328 DEBUG TaskServices:194 - Entering alloverdue tasks
+2014-12-19 10:27:58.330 DEBUG TaskDao:285 - tasklist[com.runMyErrand.model.TaskInfo@2174ec55]
+2014-12-19 10:27:58.334 DEBUG TaskController:181 - after modelview[com.runMyErrand.model.TaskInfo@2174ec55]
+2014-12-19 10:28:44.501 DEBUG TaskController:102 - Entering add task controller
+2014-12-19 10:28:44.501 DEBUG TaskController:103 - Flag from page: 0
+2014-12-19 10:28:44.502 DEBUG TaskController:105 - Task Description: Go sleep
+2014-12-19 10:28:44.502 DEBUG TaskController:106 - Task points: 15.0
+2014-12-19 10:28:44.502 DEBUG TaskController:107 - Number of days: 5
+2014-12-19 10:28:44.502 DEBUG MasterTaskServices:33 - Date Difference calculated
+2014-12-19 10:28:44.707 DEBUG MasterTaskServices:36 - Task updated
+2014-12-19 10:28:44.854 DEBUG UserServices:81 - In PendingScoresUpdate
+2014-12-19 10:28:44.854 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:28:45.248 DEBUG TaskController:116 - adding points to roominfo
+2014-12-19 10:28:45.251 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:28:45.267 DEBUG UserDao:41 - Tejas
+2014-12-19 10:28:45.279 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@1c5371b1]
+2014-12-19 10:28:45.279 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:28:45.295 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@1827d33e, com.runMyErrand.model.TaskInfo@5e9d97d5, com.runMyErrand.model.TaskInfo@3c5b517a, com.runMyErrand.model.TaskInfo@f423f8b]
+2014-12-19 10:28:45.295 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@1827d33e, com.runMyErrand.model.TaskInfo@5e9d97d5, com.runMyErrand.model.TaskInfo@3c5b517a, com.runMyErrand.model.TaskInfo@f423f8b]
+2014-12-19 10:28:45.299 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:28:45.315 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@e1f8aba, com.runMyErrand.model.TaskInfo@38ccc094, com.runMyErrand.model.TaskInfo@a7751ae]
+2014-12-19 10:28:45.315 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@e1f8aba, com.runMyErrand.model.TaskInfo@38ccc094, com.runMyErrand.model.TaskInfo@a7751ae]
+2014-12-19 10:28:45.331 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@3a6d47, com.runMyErrand.model.MasterTaskInfo@7bdc506e, com.runMyErrand.model.MasterTaskInfo@3d24a549]
+2014-12-19 10:28:45.331 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@3a6d47, com.runMyErrand.model.MasterTaskInfo@7bdc506e, com.runMyErrand.model.MasterTaskInfo@3d24a549]
+2014-12-19 10:28:45.331 DEBUG DashboardController:74 - Weekly goal: 0.0
+2014-12-19 10:28:48.550 DEBUG TaskController:177 - entering overdue tasks
+2014-12-19 10:28:48.550 DEBUG TaskServices:194 - Entering alloverdue tasks
+2014-12-19 10:28:48.554 DEBUG TaskDao:285 - tasklist[com.runMyErrand.model.TaskInfo@2a87dec2]
+2014-12-19 10:28:48.558 DEBUG TaskController:181 - after modelview[com.runMyErrand.model.TaskInfo@2a87dec2]
+2014-12-19 10:28:52.304 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@27fdc6e6]
+2014-12-19 10:28:52.308 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:28:54.392 DEBUG TaskController:76 - Adjustment value: 0.2
+2014-12-19 10:28:54.392 INFO  TaskController:77 - task: 59
+2014-12-19 10:28:54.394 INFO  TaskController:78 - assignedto: shah_tejas92@yahoo.co.in
+2014-12-19 10:28:54.394 DEBUG TaskServices:66 - Entering Assign task
+2014-12-19 10:28:54.446 DEBUG TaskDao:63 - []
+2014-12-19 10:28:54.450 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:28:58.044 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:28:58.049 DEBUG UserDao:41 - Tejas
+2014-12-19 10:28:58.057 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@1075dedd]
+2014-12-19 10:28:58.057 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:28:58.061 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@65969d7b, com.runMyErrand.model.TaskInfo@33d2a58, com.runMyErrand.model.TaskInfo@24a6f911, com.runMyErrand.model.TaskInfo@4e29dde3]
+2014-12-19 10:28:58.061 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@65969d7b, com.runMyErrand.model.TaskInfo@33d2a58, com.runMyErrand.model.TaskInfo@24a6f911, com.runMyErrand.model.TaskInfo@4e29dde3]
+2014-12-19 10:28:58.061 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:28:58.069 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@3c9d926a, com.runMyErrand.model.TaskInfo@cf78c3d, com.runMyErrand.model.TaskInfo@5017ff71, com.runMyErrand.model.TaskInfo@57837ccb]
+2014-12-19 10:28:58.069 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@3c9d926a, com.runMyErrand.model.TaskInfo@cf78c3d, com.runMyErrand.model.TaskInfo@5017ff71, com.runMyErrand.model.TaskInfo@57837ccb]
+2014-12-19 10:28:58.073 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@67165a19, com.runMyErrand.model.MasterTaskInfo@6c75542e, com.runMyErrand.model.MasterTaskInfo@ae9cfa3]
+2014-12-19 10:28:58.073 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@67165a19, com.runMyErrand.model.MasterTaskInfo@6c75542e, com.runMyErrand.model.MasterTaskInfo@ae9cfa3]
+2014-12-19 10:28:58.077 DEBUG DashboardController:74 - Weekly goal: 0.0
+2014-12-19 10:29:10.295 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-09
+2014-12-19 10:29:10.299 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-06
+2014-12-19 10:29:10.307 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-13
+2014-12-19 10:29:10.307 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:29:20.973 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-09
+2014-12-19 10:29:20.983 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-06
+2014-12-19 10:29:20.987 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-13
+2014-12-19 10:29:20.987 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:30:02.069 DEBUG DashboardController:123 - days:7
+2014-12-19 10:30:02.073 DEBUG DashboardController:125 - current date:Fri Jan 09 00:00:00 COT 2015
+2014-12-19 10:30:02.073 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-10
+2014-12-19 10:30:02.191 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:02.191 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:02.191 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-10---
+2014-12-19 10:30:02.207 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:02.211 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:02.211 DEBUG DashboardController:125 - current date:Fri Jan 09 00:00:00 COT 2015
+2014-12-19 10:30:02.211 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-11
+2014-12-19 10:30:02.275 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:02.275 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:02.275 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-11---
+2014-12-19 10:30:02.291 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:02.291 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:02.291 DEBUG DashboardController:125 - current date:Fri Jan 09 00:00:00 COT 2015
+2014-12-19 10:30:02.291 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-12
+2014-12-19 10:30:02.355 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:02.359 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:02.359 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-12---
+2014-12-19 10:30:02.375 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:02.375 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:02.379 DEBUG DashboardController:125 - current date:Fri Jan 09 00:00:00 COT 2015
+2014-12-19 10:30:02.379 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-13
+2014-12-19 10:30:02.413 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:02.413 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:02.413 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-13---
+2014-12-19 10:30:02.433 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:02.433 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:02.433 DEBUG DashboardController:125 - current date:Fri Jan 09 00:00:00 COT 2015
+2014-12-19 10:30:02.437 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-14
+2014-12-19 10:30:02.473 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:02.473 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:02.477 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-14---
+2014-12-19 10:30:02.489 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:02.489 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:02.535 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:30:02.535 INFO  SchedulingService:106 - TimeboxStartDate update:2015-01-15
+2014-12-19 10:30:02.535 DEBUG SchedulingService:108 - 
+2014-12-19 10:30:02.571 DEBUG TaskDao:274 - End set
+2014-12-19 10:30:02.575 INFO  SchedulingService:110 - Timebox end date update:2015-01-21
+2014-12-19 10:30:02.587 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:30:20.265 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-14
+2014-12-19 10:30:20.274 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-14
+2014-12-19 10:30:20.278 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-21
+2014-12-19 10:30:20.278 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:30:54.838 DEBUG DashboardController:123 - days:2
+2014-12-19 10:30:54.842 DEBUG DashboardController:125 - current date:Wed Jan 14 00:00:00 COT 2015
+2014-12-19 10:30:54.842 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-15
+2014-12-19 10:30:54.925 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:54.925 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:54.925 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-15---
+2014-12-19 10:30:54.933 DEBUG TaskServices:126 - Potential Recurring Tasks[com.runMyErrand.model.TaskInfo@2a62adf8]
+2014-12-19 10:30:54.933 DEBUG TaskServices:133 - checking if recurrence is weekly, monthly or null
+2014-12-19 10:30:54.933 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:30:54.933 DEBUG DashboardController:125 - current date:Wed Jan 14 00:00:00 COT 2015
+2014-12-19 10:30:54.933 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-16
+2014-12-19 10:30:54.991 DEBUG TaskDao:256 - Current set
+2014-12-19 10:30:54.995 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:30:54.995 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-16---
+2014-12-19 10:30:55.007 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:30:55.011 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:32:08.884 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-16
+2014-12-19 10:32:08.886 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-14
+2014-12-19 10:32:08.894 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-21
+2014-12-19 10:32:08.894 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:32:15.457 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:32:15.460 DEBUG UserDao:41 - Tejas
+2014-12-19 10:32:15.468 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@540a4d1b]
+2014-12-19 10:32:15.468 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:32:15.472 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@df073ec, com.runMyErrand.model.TaskInfo@254a921a, com.runMyErrand.model.TaskInfo@42bdfc16, com.runMyErrand.model.TaskInfo@46f12a95]
+2014-12-19 10:32:15.472 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@df073ec, com.runMyErrand.model.TaskInfo@254a921a, com.runMyErrand.model.TaskInfo@42bdfc16, com.runMyErrand.model.TaskInfo@46f12a95]
+2014-12-19 10:32:15.472 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:32:15.480 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@6f729781, com.runMyErrand.model.TaskInfo@4c38cf50, com.runMyErrand.model.TaskInfo@25b2b448, com.runMyErrand.model.TaskInfo@7759f64d]
+2014-12-19 10:32:15.480 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@6f729781, com.runMyErrand.model.TaskInfo@4c38cf50, com.runMyErrand.model.TaskInfo@25b2b448, com.runMyErrand.model.TaskInfo@7759f64d]
+2014-12-19 10:32:15.484 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@197c98cb, com.runMyErrand.model.MasterTaskInfo@4313447f, com.runMyErrand.model.MasterTaskInfo@25f61040]
+2014-12-19 10:32:15.484 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@197c98cb, com.runMyErrand.model.MasterTaskInfo@4313447f, com.runMyErrand.model.MasterTaskInfo@25f61040]
+2014-12-19 10:32:15.484 DEBUG DashboardController:74 - Weekly goal: 0.0
+2014-12-19 10:33:35.017 DEBUG DateManager:57 - java.lang.NullPointerException
+2014-12-19 10:33:35.033 DEBUG SchedulingService:68 - CurrentDateSet:
+2014-12-19 10:33:36.003 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-16
+2014-12-19 10:33:36.039 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-14
+2014-12-19 10:33:36.056 DEBUG SchedulingService:78 - TimeboxEndSet:2015-01-21
+2014-12-19 10:33:36.057 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:33:40.017 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-17
+2014-12-19 10:33:40.115 DEBUG TaskDao:256 - Current set
+2014-12-19 10:33:40.130 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:33:40.130 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-17---
+2014-12-19 10:33:40.146 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:33:40.146 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:33:45.020 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-18
+2014-12-19 10:33:45.132 DEBUG TaskDao:256 - Current set
+2014-12-19 10:33:45.132 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:33:45.132 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-18---
+2014-12-19 10:33:45.163 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:33:45.163 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:33:50.023 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-19
+2014-12-19 10:33:50.088 DEBUG TaskDao:256 - Current set
+2014-12-19 10:33:50.088 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:33:50.088 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-19---
+2014-12-19 10:33:50.119 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:33:50.119 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:33:55.011 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-20
+2014-12-19 10:33:55.076 DEBUG TaskDao:256 - Current set
+2014-12-19 10:33:55.076 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:33:55.076 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-20---
+2014-12-19 10:33:55.107 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:33:55.107 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:00.016 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-21
+2014-12-19 10:34:00.113 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:00.113 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:00.113 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-21---
+2014-12-19 10:34:00.144 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:00.144 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:05.007 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-22
+2014-12-19 10:34:05.088 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:05.088 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:05.088 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-22---
+2014-12-19 10:34:05.104 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:05.104 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:05.166 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:34:05.166 INFO  SchedulingService:106 - TimeboxStartDate update:2015-01-23
+2014-12-19 10:34:05.166 DEBUG SchedulingService:108 - 
+2014-12-19 10:34:05.213 DEBUG TaskDao:274 - End set
+2014-12-19 10:34:05.213 INFO  SchedulingService:110 - Timebox end date update:2015-01-29
+2014-12-19 10:34:05.229 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:34:10.021 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-23
+2014-12-19 10:34:10.086 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:10.086 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:10.086 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-23---
+2014-12-19 10:34:10.118 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:10.118 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:15.006 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-24
+2014-12-19 10:34:15.073 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:15.073 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:15.073 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-24---
+2014-12-19 10:34:15.093 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:15.093 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:20.003 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-25
+2014-12-19 10:34:20.061 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:20.061 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:20.061 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-25---
+2014-12-19 10:34:20.065 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:20.065 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:25.004 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-26
+2014-12-19 10:34:25.085 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:25.085 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:25.085 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-26---
+2014-12-19 10:34:25.101 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:25.101 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:30.020 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-27
+2014-12-19 10:34:30.086 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:30.086 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:30.086 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-27---
+2014-12-19 10:34:30.102 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:30.102 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:35.019 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-28
+2014-12-19 10:34:35.100 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:35.100 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:35.100 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-28---
+2014-12-19 10:34:35.115 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:35.115 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:40.008 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-29
+2014-12-19 10:34:40.119 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:40.119 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:40.119 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-29---
+2014-12-19 10:34:40.139 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:40.139 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:45.018 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-30
+2014-12-19 10:34:45.099 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:45.099 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:45.099 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-30---
+2014-12-19 10:34:45.115 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:45.115 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:34:45.177 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:34:45.177 INFO  SchedulingService:106 - TimeboxStartDate update:2015-01-31
+2014-12-19 10:34:45.177 DEBUG SchedulingService:108 - 
+2014-12-19 10:34:45.215 DEBUG TaskDao:274 - End set
+2014-12-19 10:34:45.215 INFO  SchedulingService:110 - Timebox end date update:2015-02-06
+2014-12-19 10:34:45.247 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:34:50.005 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-31
+2014-12-19 10:34:50.072 DEBUG TaskDao:256 - Current set
+2014-12-19 10:34:50.072 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:34:50.072 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-01-31---
+2014-12-19 10:34:50.088 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:34:50.088 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:35:29.828 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-31
+2014-12-19 10:35:29.845 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-30
+2014-12-19 10:35:29.856 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-06
+2014-12-19 10:35:29.857 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:36:35.410 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-31
+2014-12-19 10:36:35.420 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-30
+2014-12-19 10:36:35.428 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-06
+2014-12-19 10:36:35.428 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:37:12.358 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:37:12.370 DEBUG UserDao:41 - Tejas
+2014-12-19 10:37:12.374 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@6429622e]
+2014-12-19 10:37:12.378 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:37:12.386 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@68f24a8d, com.runMyErrand.model.TaskInfo@7afca4ce, com.runMyErrand.model.TaskInfo@60a80f76, com.runMyErrand.model.TaskInfo@398f3d8d]
+2014-12-19 10:37:12.386 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@68f24a8d, com.runMyErrand.model.TaskInfo@7afca4ce, com.runMyErrand.model.TaskInfo@60a80f76, com.runMyErrand.model.TaskInfo@398f3d8d]
+2014-12-19 10:37:12.386 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:37:12.394 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@397a070b, com.runMyErrand.model.TaskInfo@7a6480a7, com.runMyErrand.model.TaskInfo@5c3a92b7, com.runMyErrand.model.TaskInfo@9765baf]
+2014-12-19 10:37:12.394 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@397a070b, com.runMyErrand.model.TaskInfo@7a6480a7, com.runMyErrand.model.TaskInfo@5c3a92b7, com.runMyErrand.model.TaskInfo@9765baf]
+2014-12-19 10:37:12.402 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@6d77ab7f, com.runMyErrand.model.MasterTaskInfo@4b9c56fe, com.runMyErrand.model.MasterTaskInfo@513647a]
+2014-12-19 10:37:12.406 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@6d77ab7f, com.runMyErrand.model.MasterTaskInfo@4b9c56fe, com.runMyErrand.model.MasterTaskInfo@513647a]
+2014-12-19 10:37:12.406 DEBUG DashboardController:74 - Weekly goal: 15.0
+2014-12-19 10:37:20.626 DEBUG TaskController:135 - Entering edittask
+2014-12-19 10:37:20.626 DEBUG TaskDao:147 - getting task
+2014-12-19 10:37:20.633 DEBUG TaskDao:152 - task [com.runMyErrand.model.TaskInfo@76f6fcd2]
+2014-12-19 10:37:20.633 DEBUG TaskServices:89 - Entering updatetask
+2014-12-19 10:37:20.633 DEBUG TaskDao:119 - entering updatetaskstatus
+2014-12-19 10:37:20.754 DEBUG TaskServices:92 - entering updatescore
+2014-12-19 10:37:20.758 DEBUG TaskController:145 - new user score46.266714.9334
+2014-12-19 10:37:20.758 DEBUG TaskController:146 - Pending Score: Previous 6.75
+2014-12-19 10:37:20.806 DEBUG TaskController:162 - Updating User Score
+2014-12-19 10:37:20.806 DEBUG UserServices:64 - updating user score
+2014-12-19 10:37:20.854 DEBUG UserDao:29 - score updated
+2014-12-19 10:37:20.894 DEBUG UserDao:70 - pending score updated
+2014-12-19 10:37:20.898 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:37:20.910 DEBUG UserDao:41 - Tejas
+2014-12-19 10:37:20.926 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@4d2c47e9]
+2014-12-19 10:37:20.927 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:37:20.943 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@1c4f0c3, com.runMyErrand.model.TaskInfo@289a931d, com.runMyErrand.model.TaskInfo@3c3069be, com.runMyErrand.model.TaskInfo@e6e57d1]
+2014-12-19 10:37:20.943 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@1c4f0c3, com.runMyErrand.model.TaskInfo@289a931d, com.runMyErrand.model.TaskInfo@3c3069be, com.runMyErrand.model.TaskInfo@e6e57d1]
+2014-12-19 10:37:20.943 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:37:20.963 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@2b0b7e54, com.runMyErrand.model.TaskInfo@7f92d2df, com.runMyErrand.model.TaskInfo@526fe8, com.runMyErrand.model.TaskInfo@2430e882]
+2014-12-19 10:37:20.963 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@2b0b7e54, com.runMyErrand.model.TaskInfo@7f92d2df, com.runMyErrand.model.TaskInfo@526fe8, com.runMyErrand.model.TaskInfo@2430e882]
+2014-12-19 10:37:20.983 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@1f2cfc93, com.runMyErrand.model.MasterTaskInfo@427a26e2, com.runMyErrand.model.MasterTaskInfo@618ee186]
+2014-12-19 10:37:20.987 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@1f2cfc93, com.runMyErrand.model.MasterTaskInfo@427a26e2, com.runMyErrand.model.MasterTaskInfo@618ee186]
+2014-12-19 10:37:20.987 DEBUG DashboardController:74 - Weekly goal: 0.0665998
+2014-12-19 10:37:28.870 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-31
+2014-12-19 10:37:28.877 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-30
+2014-12-19 10:37:28.881 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-06
+2014-12-19 10:37:28.881 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:37:34.778 DEBUG SchedulingService:68 - CurrentDateSet:2015-01-31
+2014-12-19 10:37:34.786 DEBUG SchedulingService:73 - TimeboxStartSet:2015-01-30
+2014-12-19 10:37:34.794 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-06
+2014-12-19 10:37:34.794 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:37:59.086 DEBUG DashboardController:123 - days:26
+2014-12-19 10:37:59.090 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.090 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-01
+2014-12-19 10:37:59.154 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.154 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.154 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-01---
+2014-12-19 10:37:59.170 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.170 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.174 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.174 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-02
+2014-12-19 10:37:59.298 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.298 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.298 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-02---
+2014-12-19 10:37:59.313 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.317 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.317 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.317 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-03
+2014-12-19 10:37:59.380 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.380 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.380 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-03---
+2014-12-19 10:37:59.396 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.396 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.400 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.400 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-04
+2014-12-19 10:37:59.442 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.442 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.442 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-04---
+2014-12-19 10:37:59.461 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.461 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.461 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.465 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-05
+2014-12-19 10:37:59.501 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.501 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.505 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-05---
+2014-12-19 10:37:59.517 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.521 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.521 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.521 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-06
+2014-12-19 10:37:59.610 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.614 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.614 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-06---
+2014-12-19 10:37:59.634 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.634 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.638 DEBUG DashboardController:125 - current date:Sat Jan 31 00:00:00 COT 2015
+2014-12-19 10:37:59.638 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-07
+2014-12-19 10:37:59.691 DEBUG TaskDao:256 - Current set
+2014-12-19 10:37:59.691 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:37:59.691 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-07---
+2014-12-19 10:37:59.707 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:37:59.707 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:37:59.751 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:37:59.751 INFO  SchedulingService:106 - TimeboxStartDate update:2015-02-08
+2014-12-19 10:37:59.755 DEBUG SchedulingService:108 - 
+2014-12-19 10:37:59.791 DEBUG TaskDao:274 - End set
+2014-12-19 10:37:59.791 INFO  SchedulingService:110 - Timebox end date update:2015-02-14
+2014-12-19 10:37:59.807 DEBUG SchedulingService:112 - Weekly Goal: null
+2014-12-19 10:39:14.064 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-07
+2014-12-19 10:39:14.112 DEBUG SchedulingService:73 - TimeboxStartSet:2015-02-07
+2014-12-19 10:39:14.128 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-14
+2014-12-19 10:39:14.128 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:39:23.003 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-07
+2014-12-19 10:39:23.009 DEBUG SchedulingService:73 - TimeboxStartSet:2015-02-07
+2014-12-19 10:39:23.021 DEBUG SchedulingService:78 - TimeboxEndSet:2015-02-14
+2014-12-19 10:39:23.021 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:39:50.142 DEBUG DashboardController:123 - days:18
+2014-12-19 10:39:50.142 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.146 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-08
+2014-12-19 10:39:50.205 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.205 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.205 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-08---
+2014-12-19 10:39:50.213 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.213 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.213 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.213 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-09
+2014-12-19 10:39:50.303 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.303 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.307 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-09---
+2014-12-19 10:39:50.327 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.331 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.331 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.331 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-10
+2014-12-19 10:39:50.399 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.400 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.400 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-10---
+2014-12-19 10:39:50.412 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.416 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.416 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.416 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-11
+2014-12-19 10:39:50.471 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.471 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.471 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-11---
+2014-12-19 10:39:50.499 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.499 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.499 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.499 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-12
+2014-12-19 10:39:50.551 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.555 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.555 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-12---
+2014-12-19 10:39:50.563 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.563 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.563 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.567 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-13
+2014-12-19 10:39:50.603 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.603 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.603 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-13---
+2014-12-19 10:39:50.611 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.611 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.611 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.611 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-14
+2014-12-19 10:39:50.643 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.643 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.643 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-14---
+2014-12-19 10:39:50.659 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.663 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.663 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:50.663 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-15
+2014-12-19 10:39:50.703 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:50.703 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:50.707 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-15---
+2014-12-19 10:39:50.723 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:50.723 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:50.763 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:39:50.763 INFO  SchedulingService:106 - TimeboxStartDate update:2015-02-16
+2014-12-19 10:39:50.763 DEBUG SchedulingService:108 - 
+2014-12-19 10:39:50.804 DEBUG TaskDao:274 - End set
+2014-12-19 10:39:50.804 INFO  SchedulingService:110 - Timebox end date update:2015-02-22
+2014-12-19 10:39:50.823 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:39:50.887 DEBUG UserDao:29 - score updated
+2014-12-19 10:39:50.975 DEBUG UserDao:29 - score updated
+2014-12-19 10:39:51.023 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.027 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-16
+2014-12-19 10:39:51.063 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.063 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.063 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-16---
+2014-12-19 10:39:51.079 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.079 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.083 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.083 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-17
+2014-12-19 10:39:51.185 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.189 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.190 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-17---
+2014-12-19 10:39:51.203 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.203 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.207 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.207 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-18
+2014-12-19 10:39:51.259 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.259 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.259 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-18---
+2014-12-19 10:39:51.275 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.275 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.275 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.279 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-19
+2014-12-19 10:39:51.319 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.319 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.319 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-19---
+2014-12-19 10:39:51.335 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.335 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.339 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.339 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-20
+2014-12-19 10:39:51.383 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.387 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.387 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-20---
+2014-12-19 10:39:51.395 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.395 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.395 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.399 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-21
+2014-12-19 10:39:51.435 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.435 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.435 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-21---
+2014-12-19 10:39:51.447 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.447 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.447 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.447 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-22
+2014-12-19 10:39:51.483 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.487 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.487 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-22---
+2014-12-19 10:39:51.503 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.507 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.507 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.511 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-23
+2014-12-19 10:39:51.547 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.547 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.547 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-23---
+2014-12-19 10:39:51.559 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.559 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.595 DEBUG TaskDao:265 - Timebox set
+2014-12-19 10:39:51.595 INFO  SchedulingService:106 - TimeboxStartDate update:2015-02-24
+2014-12-19 10:39:51.595 DEBUG SchedulingService:108 - 
+2014-12-19 10:39:51.637 DEBUG TaskDao:274 - End set
+2014-12-19 10:39:51.637 INFO  SchedulingService:110 - Timebox end date update:2015-03-02
+2014-12-19 10:39:51.653 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:39:51.705 DEBUG UserDao:29 - score updated
+2014-12-19 10:39:51.819 DEBUG UserDao:29 - score updated
+2014-12-19 10:39:51.869 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.869 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-24
+2014-12-19 10:39:51.905 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.909 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.909 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-24---
+2014-12-19 10:39:51.925 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.925 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:39:51.925 DEBUG DashboardController:125 - current date:Sat Feb 07 00:00:00 COT 2015
+2014-12-19 10:39:51.929 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-25
+2014-12-19 10:39:51.969 DEBUG TaskDao:256 - Current set
+2014-12-19 10:39:51.969 DEBUG SchedulingService:90 - managingrecurrences
+2014-12-19 10:39:51.969 DEBUG TaskServices:123 - ---Checking for RecurringTasks Due on 2015-02-25---
+2014-12-19 10:39:51.981 DEBUG TaskServices:126 - Potential Recurring Tasks[]
+2014-12-19 10:39:51.981 DEBUG SchedulingService:101 - Timebox
+2014-12-19 10:41:41.518 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-25
+2014-12-19 10:41:41.523 DEBUG SchedulingService:73 - TimeboxStartSet:2015-02-23
+2014-12-19 10:41:41.531 DEBUG SchedulingService:78 - TimeboxEndSet:2015-03-02
+2014-12-19 10:41:41.531 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:41:44.906 DEBUG SchedulingService:68 - CurrentDateSet:2015-02-25
+2014-12-19 10:41:44.915 DEBUG SchedulingService:73 - TimeboxStartSet:2015-02-23
+2014-12-19 10:41:44.923 DEBUG SchedulingService:78 - TimeboxEndSet:2015-03-02
+2014-12-19 10:41:44.923 DEBUG LoginController:41 - Entering Controller
+2014-12-19 10:41:51.266 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:41:51.270 DEBUG UserDao:41 - Tejas
+2014-12-19 10:41:51.278 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@4f463581]
+2014-12-19 10:41:51.278 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:41:51.286 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@1dd37976, com.runMyErrand.model.TaskInfo@26cb4146, com.runMyErrand.model.TaskInfo@6a2a6e8f, com.runMyErrand.model.TaskInfo@7c0a4bd]
+2014-12-19 10:41:51.286 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@1dd37976, com.runMyErrand.model.TaskInfo@26cb4146, com.runMyErrand.model.TaskInfo@6a2a6e8f, com.runMyErrand.model.TaskInfo@7c0a4bd]
+2014-12-19 10:41:51.286 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:41:51.290 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@65e51d5a, com.runMyErrand.model.TaskInfo@24ea33f9, com.runMyErrand.model.TaskInfo@bfa335e, com.runMyErrand.model.TaskInfo@57426676]
+2014-12-19 10:41:51.290 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@65e51d5a, com.runMyErrand.model.TaskInfo@24ea33f9, com.runMyErrand.model.TaskInfo@bfa335e, com.runMyErrand.model.TaskInfo@57426676]
+2014-12-19 10:41:51.298 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@4325d9f9, com.runMyErrand.model.MasterTaskInfo@6a098cdf, com.runMyErrand.model.MasterTaskInfo@18ffbadc]
+2014-12-19 10:41:51.298 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@4325d9f9, com.runMyErrand.model.MasterTaskInfo@6a098cdf, com.runMyErrand.model.MasterTaskInfo@18ffbadc]
+2014-12-19 10:41:51.298 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:42:10.751 DEBUG TaskController:177 - entering overdue tasks
+2014-12-19 10:42:10.751 DEBUG TaskServices:194 - Entering alloverdue tasks
+2014-12-19 10:42:10.757 DEBUG TaskDao:285 - tasklist[com.runMyErrand.model.TaskInfo@2d927daf]
+2014-12-19 10:42:10.757 DEBUG TaskController:181 - after modelview[com.runMyErrand.model.TaskInfo@2d927daf]
+2014-12-19 10:42:22.527 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:42:22.533 DEBUG UserDao:41 - Tejas
+2014-12-19 10:42:22.537 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@4a546701]
+2014-12-19 10:42:22.537 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:42:22.545 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@56795340, com.runMyErrand.model.TaskInfo@3748bb1a, com.runMyErrand.model.TaskInfo@7f3c451, com.runMyErrand.model.TaskInfo@14dda5eb]
+2014-12-19 10:42:22.545 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@56795340, com.runMyErrand.model.TaskInfo@3748bb1a, com.runMyErrand.model.TaskInfo@7f3c451, com.runMyErrand.model.TaskInfo@14dda5eb]
+2014-12-19 10:42:22.545 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:42:22.549 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@66dd2f24, com.runMyErrand.model.TaskInfo@4342193e, com.runMyErrand.model.TaskInfo@288757f1, com.runMyErrand.model.TaskInfo@4d9ea400]
+2014-12-19 10:42:22.549 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@66dd2f24, com.runMyErrand.model.TaskInfo@4342193e, com.runMyErrand.model.TaskInfo@288757f1, com.runMyErrand.model.TaskInfo@4d9ea400]
+2014-12-19 10:42:22.557 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@5f25b522, com.runMyErrand.model.MasterTaskInfo@2496fbfb, com.runMyErrand.model.MasterTaskInfo@34792e81]
+2014-12-19 10:42:22.557 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@5f25b522, com.runMyErrand.model.MasterTaskInfo@2496fbfb, com.runMyErrand.model.MasterTaskInfo@34792e81]
+2014-12-19 10:42:22.557 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:43:01.875 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:43:01.883 DEBUG UserDao:41 - Tejas
+2014-12-19 10:43:01.887 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@28553329]
+2014-12-19 10:43:01.887 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:43:01.891 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@24dcf838, com.runMyErrand.model.TaskInfo@272c3770, com.runMyErrand.model.TaskInfo@47ebae27, com.runMyErrand.model.TaskInfo@41f6a754]
+2014-12-19 10:43:01.895 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@24dcf838, com.runMyErrand.model.TaskInfo@272c3770, com.runMyErrand.model.TaskInfo@47ebae27, com.runMyErrand.model.TaskInfo@41f6a754]
+2014-12-19 10:43:01.895 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:43:01.899 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@56f474a7, com.runMyErrand.model.TaskInfo@4b16ac8a, com.runMyErrand.model.TaskInfo@3d99be89, com.runMyErrand.model.TaskInfo@38ac33f7]
+2014-12-19 10:43:01.899 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@56f474a7, com.runMyErrand.model.TaskInfo@4b16ac8a, com.runMyErrand.model.TaskInfo@3d99be89, com.runMyErrand.model.TaskInfo@38ac33f7]
+2014-12-19 10:43:01.903 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@2c514af6, com.runMyErrand.model.MasterTaskInfo@d107335, com.runMyErrand.model.MasterTaskInfo@32fba346]
+2014-12-19 10:43:01.903 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@2c514af6, com.runMyErrand.model.MasterTaskInfo@d107335, com.runMyErrand.model.MasterTaskInfo@32fba346]
+2014-12-19 10:43:01.903 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:43:19.128 DEBUG UserController:38 - Entered roomyinfo abhino@gmail.com
+2014-12-19 10:43:19.132 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:43:19.145 DEBUG TaskDao:46 - Mytask:[]
+2014-12-19 10:43:19.157 DEBUG UserDao:41 - Abhinav
+2014-12-19 10:43:19.161 DEBUG UserController:48 - roomyInfo:[]
+2014-12-19 10:43:27.976 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:43:27.991 DEBUG UserDao:41 - Tejas
+2014-12-19 10:43:28.003 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@283dab5b]
+2014-12-19 10:43:28.007 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:43:28.019 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@55f23d9a, com.runMyErrand.model.TaskInfo@12aa758b, com.runMyErrand.model.TaskInfo@750b023f, com.runMyErrand.model.TaskInfo@25c0b221]
+2014-12-19 10:43:28.023 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@55f23d9a, com.runMyErrand.model.TaskInfo@12aa758b, com.runMyErrand.model.TaskInfo@750b023f, com.runMyErrand.model.TaskInfo@25c0b221]
+2014-12-19 10:43:28.023 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:43:28.039 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@369c7c33, com.runMyErrand.model.TaskInfo@5b9e1447, com.runMyErrand.model.TaskInfo@6745704e, com.runMyErrand.model.TaskInfo@7fd045d9]
+2014-12-19 10:43:28.039 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@369c7c33, com.runMyErrand.model.TaskInfo@5b9e1447, com.runMyErrand.model.TaskInfo@6745704e, com.runMyErrand.model.TaskInfo@7fd045d9]
+2014-12-19 10:43:28.051 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@27dc9e9, com.runMyErrand.model.MasterTaskInfo@1052e146, com.runMyErrand.model.MasterTaskInfo@3143c309]
+2014-12-19 10:43:28.051 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@27dc9e9, com.runMyErrand.model.MasterTaskInfo@1052e146, com.runMyErrand.model.MasterTaskInfo@3143c309]
+2014-12-19 10:43:28.055 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:43:45.521 DEBUG TaskController:102 - Entering add task controller
+2014-12-19 10:43:45.525 DEBUG TaskController:103 - Flag from page: 0
+2014-12-19 10:43:45.525 DEBUG TaskController:105 - Task Description: Go eat
+2014-12-19 10:43:45.525 DEBUG TaskController:106 - Task points: 12.0
+2014-12-19 10:43:45.526 DEBUG TaskController:107 - Number of days: 3
+2014-12-19 10:43:45.526 DEBUG MasterTaskServices:33 - Date Difference calculated
+2014-12-19 10:43:45.676 DEBUG MasterTaskServices:36 - Task updated
+2014-12-19 10:43:45.839 DEBUG UserServices:81 - In PendingScoresUpdate
+2014-12-19 10:43:45.839 DEBUG UserDao:79 - Selecting all users
+2014-12-19 10:43:46.087 DEBUG TaskController:116 - adding points to roominfo
+2014-12-19 10:43:46.094 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:43:46.106 DEBUG UserDao:41 - Tejas
+2014-12-19 10:43:46.118 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@ba9bf52]
+2014-12-19 10:43:46.122 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:43:46.142 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@3d24a549, com.runMyErrand.model.TaskInfo@30df7afb, com.runMyErrand.model.TaskInfo@20030dce, com.runMyErrand.model.TaskInfo@287f5fcd, com.runMyErrand.model.TaskInfo@426aa080]
+2014-12-19 10:43:46.142 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@3d24a549, com.runMyErrand.model.TaskInfo@30df7afb, com.runMyErrand.model.TaskInfo@20030dce, com.runMyErrand.model.TaskInfo@287f5fcd, com.runMyErrand.model.TaskInfo@426aa080]
+2014-12-19 10:43:46.142 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:43:46.158 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@7dfa96d0, com.runMyErrand.model.TaskInfo@4ec3724d, com.runMyErrand.model.TaskInfo@18545a1, com.runMyErrand.model.TaskInfo@549e4dce]
+2014-12-19 10:43:46.162 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@7dfa96d0, com.runMyErrand.model.TaskInfo@4ec3724d, com.runMyErrand.model.TaskInfo@18545a1, com.runMyErrand.model.TaskInfo@549e4dce]
+2014-12-19 10:43:46.174 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@2313d6f2, com.runMyErrand.model.MasterTaskInfo@6b84bbdb, com.runMyErrand.model.MasterTaskInfo@57495e02, com.runMyErrand.model.MasterTaskInfo@11bb0213]
+2014-12-19 10:43:46.174 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@2313d6f2, com.runMyErrand.model.MasterTaskInfo@6b84bbdb, com.runMyErrand.model.MasterTaskInfo@57495e02, com.runMyErrand.model.MasterTaskInfo@11bb0213]
+2014-12-19 10:43:46.178 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:43:47.145 DEBUG TaskDao:63 - [com.runMyErrand.model.TaskInfo@2e24d338]
+2014-12-19 10:43:47.145 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:43:51.035 DEBUG TaskController:76 - Adjustment value: 0.2
+2014-12-19 10:43:51.035 INFO  TaskController:77 - task: 60
+2014-12-19 10:43:51.036 INFO  TaskController:78 - assignedto: abhino@gmail.com
+2014-12-19 10:43:51.036 DEBUG TaskServices:66 - Entering Assign task
+2014-12-19 10:43:51.099 DEBUG TaskDao:63 - []
+2014-12-19 10:43:51.099 DEBUG TaskController:52 - unassignedtasks retrieved
+2014-12-19 10:43:54.297 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@a987fac, com.runMyErrand.model.TaskInfo@21e5faa3, com.runMyErrand.model.TaskInfo@1a9f4b8, com.runMyErrand.model.TaskInfo@3d015ce2, com.runMyErrand.model.TaskInfo@247918b8]
+2014-12-19 10:43:54.297 DEBUG TaskController:199 - unassignedtasks retrieved
+2014-12-19 10:44:00.298 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:44:00.305 DEBUG UserDao:41 - Tejas
+2014-12-19 10:44:00.309 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@1ce674d0]
+2014-12-19 10:44:00.309 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:44:00.313 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@4f9a37ae, com.runMyErrand.model.TaskInfo@15bda956, com.runMyErrand.model.TaskInfo@56b85840, com.runMyErrand.model.TaskInfo@60a9fe3a, com.runMyErrand.model.TaskInfo@3871c36a]
+2014-12-19 10:44:00.317 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@4f9a37ae, com.runMyErrand.model.TaskInfo@15bda956, com.runMyErrand.model.TaskInfo@56b85840, com.runMyErrand.model.TaskInfo@60a9fe3a, com.runMyErrand.model.TaskInfo@3871c36a]
+2014-12-19 10:44:00.317 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:44:00.321 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@5fa86a2b, com.runMyErrand.model.TaskInfo@29d25e1d, com.runMyErrand.model.TaskInfo@3220d75e, com.runMyErrand.model.TaskInfo@a1b7608]
+2014-12-19 10:44:00.321 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@5fa86a2b, com.runMyErrand.model.TaskInfo@29d25e1d, com.runMyErrand.model.TaskInfo@3220d75e, com.runMyErrand.model.TaskInfo@a1b7608]
+2014-12-19 10:44:00.325 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@3a547a96, com.runMyErrand.model.MasterTaskInfo@3c2bc5, com.runMyErrand.model.MasterTaskInfo@6e5d92a1, com.runMyErrand.model.MasterTaskInfo@4145c0a2]
+2014-12-19 10:44:00.329 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@3a547a96, com.runMyErrand.model.MasterTaskInfo@3c2bc5, com.runMyErrand.model.MasterTaskInfo@6e5d92a1, com.runMyErrand.model.MasterTaskInfo@4145c0a2]
+2014-12-19 10:44:00.329 DEBUG DashboardController:74 - Weekly goal: 30.0666
+2014-12-19 10:44:02.902 DEBUG UserController:38 - Entered roomyinfo abhino@gmail.com
+2014-12-19 10:44:02.905 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:44:02.910 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@2bc7f561]
+2014-12-19 10:44:02.918 DEBUG UserDao:41 - Abhinav
+2014-12-19 10:44:02.918 DEBUG UserController:48 - roomyInfo:[com.runMyErrand.model.TaskInfo@2bc7f561]
+2014-12-19 10:45:30.091 DEBUG DashboardController:58 - Entered dashboard shah_tejas92@yahoo.co.in
+2014-12-19 10:45:30.100 DEBUG UserDao:41 - Tejas
+2014-12-19 10:45:30.104 DEBUG DashboardController:64 - [com.runMyErrand.model.UserInfo@1937932]
+2014-12-19 10:45:30.104 DEBUG TaskServices:35 - Entering retrieveTasks
+2014-12-19 10:45:30.112 DEBUG TaskDao:34 - tasklist[com.runMyErrand.model.TaskInfo@30f347ce, com.runMyErrand.model.TaskInfo@33ef3e7d, com.runMyErrand.model.TaskInfo@1fef9b2e, com.runMyErrand.model.TaskInfo@2bb4f963, com.runMyErrand.model.TaskInfo@7660e8ff]
+2014-12-19 10:45:30.112 DEBUG DashboardController:67 - [com.runMyErrand.model.TaskInfo@30f347ce, com.runMyErrand.model.TaskInfo@33ef3e7d, com.runMyErrand.model.TaskInfo@1fef9b2e, com.runMyErrand.model.TaskInfo@2bb4f963, com.runMyErrand.model.TaskInfo@7660e8ff]
+2014-12-19 10:45:30.112 DEBUG TaskServices:45 - retrieveMyTasks
+2014-12-19 10:45:30.116 DEBUG TaskDao:46 - Mytask:[com.runMyErrand.model.TaskInfo@2f6887b3, com.runMyErrand.model.TaskInfo@77a51115, com.runMyErrand.model.TaskInfo@7604b710, com.runMyErrand.model.TaskInfo@2f8eb7f8]
+2014-12-19 10:45:30.116 DEBUG DashboardController:69 - Login:[com.runMyErrand.model.TaskInfo@2f6887b3, com.runMyErrand.model.TaskInfo@77a51115, com.runMyErrand.model.TaskInfo@7604b710, com.runMyErrand.model.TaskInfo@2f8eb7f8]
+2014-12-19 10:45:30.120 DEBUG MasterTaskDao:127 - [com.runMyErrand.model.MasterTaskInfo@5631be61, com.runMyErrand.model.MasterTaskInfo@5bc9fe7c, com.runMyErrand.model.MasterTaskInfo@2a62adf8, com.runMyErrand.model.MasterTaskInfo@348b8a85]
+2014-12-19 10:45:30.124 DEBUG DashboardController:72 - [com.runMyErrand.model.MasterTaskInfo@5631be61, com.runMyErrand.model.MasterTaskInfo@5bc9fe7c, com.runMyErrand.model.MasterTaskInfo@2a62adf8, com.runMyErrand.model.MasterTaskInfo@348b8a85]
+2014-12-19 10:45:30.124 DEBUG DashboardController:74 - Weekly goal: 30.0666
