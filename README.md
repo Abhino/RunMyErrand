@@ -15,5 +15,6 @@ This is a task management application developed in spring MVC architecture which
 - Twitter Bootstrap (User interface design)
 - MySQL (Database/Storage)
 
-The commits under the username "abhivija" belongs to "Abhino"
-The commits under the username "tdshah" belongs to "tejas1992"
+# Changelog:
+- The commits under the username "abhivija" belongs to "Abhino"
+- The commits under the username "tdshah" belongs to "tejas1992"
